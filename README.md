@@ -1,12 +1,12 @@
 # matrix-calc
- Это консольное приложение - калькулятор матриц.
- Калькулятор умеет:
- 1) Находить след матрицы.
- 2) Транспонировать матрицу.
- 3) Складывать 2 матрицы.
- 4) Вычислять разность 2-х матриц.
- 5) Перемножать матрицы.
- 6) Умножать матрицу на число.
- 7) Находить определитель матрицы.
+ This console application is a matrix calculator.
+ Calculator has the following functions:
+ 1) Find matrix trace.
+ 2) Transpose matrix.
+ 3) Add 2 matrices.
+ 4) Subtract 2 matrices.
+ 5) Multiply matrices.
+ 6) Multiply a matrix by a number.
+ 7) Find the determinant of a matrix.
  
- Заполнить матрицу можно из файла, консоли и рандомно.
+ You can fill in the matrix from a file, console and randomly.
